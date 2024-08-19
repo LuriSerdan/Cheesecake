@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img src="https://ibb.co/k1FsK31" alt="Descrição da imagem">
+  <img src="./assets/Chee.png" alt="Descrição da imagem">
 </p>
 
 ## 🚀 Tecnologias
