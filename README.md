@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto sobre receita de bolo" src="https://ibb.co/k1FsK31" width="100%">
+  <img src="https://ibb.co/k1FsK31" alt="Descrição da imagem">
 </p>
 
 ## 🚀 Tecnologias
